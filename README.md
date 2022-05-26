@@ -3,13 +3,11 @@ This is a project, which consists of generating from any svg image a path which 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 I would like to start by saying:
 
-Thank you very much for your interest in this project, I wanted to share it with the community
+Thank you very much for your interest in this project, We wanted to share it with the community
 
-I am new to the world of programming and this is one of my first projects in python, if you have any suggestions on how to improve this project I would be very grateful for your collaboration!
+I am new in the programming world and this is one of our first projects in python. If you have any suggestions on how to improve it We would be very grateful for your collaboration!
 
-This is a project, which consists of generating from any svg image a path which is followed by a robotic arm
-
-It contains a python script, based on the API RoboDK which through is possible to simulate the movements of the robotic Arm, you can find an example of the simulation in this repository, an is possible to try it online right here:
+this section contains a python script, based on the API RoboDK which through is possible to simulate the movements of the robotic Arm, you can find an example of the simulation in this repository, an is possible to try it online right here:
 
 https://web.robodk.com/web
 
